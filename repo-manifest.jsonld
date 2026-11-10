@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Trinea/android-common/commit/56be038544ef00e02c86052ce16398dda1987a4d",
       "git:hexsha": "56be038544ef00e02c86052ce16398dda1987a4d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T05:21:12.955349+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Trinea/android-common/commit/78e6634069d2d9aefa354b86e3ab98e51a3d3682",
